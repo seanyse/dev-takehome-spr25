@@ -8,6 +8,7 @@ export default function Kewl() {
       Don't worry about styling- we aren't grading you on this- it's just to get to know you better! :) 
       */}
       😎😎😎
+      Hi, I am Sean Yan, a sophmore studying CS. I am involved with GT iOS Club. I enjoy playing tennis, basketball, working out, poker, and spent this past summer studying abroad in Europe
     </div>
   );
 }
